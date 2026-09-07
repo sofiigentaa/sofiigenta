@@ -18,7 +18,6 @@ Pagina web: https://sg-solutions-1.onrender.com/
 - Scraper Inmobiliario Automatizado --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario
 - Sistema de Gestión para Consultorio Odontológico  --> https://github.com/sofiigentaa/AgendaOdontologica
 - Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos
-- Sistema de Gestión de Ingresos y Gastos --> https://github.com/sofiigentaa/Gestion-de-Ingresos-y-Gastos-para-Emprendedor
 - Sistema de Gestion de Kiosco --> https://github.com/sofiigentaa/SistemaKiosco
 - Agenda Medica --> https://github.com/sofiigentaa/AgendaMedica
 
